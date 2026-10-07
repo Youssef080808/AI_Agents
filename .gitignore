@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.*
+*.key
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Gradio
+.gradio/
+flagged/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
